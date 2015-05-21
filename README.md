@@ -4,7 +4,7 @@ Mar. 3, 2015
 ----------------------------------------------------------------------------  
 Short Text Hashing Improved by Integrating Multi-Granularity Topics and Tags  
 ----------------------------------------------------------------------------  
-- This is the code for the papers [Short Text Hashing Improved by Integrating Multi-Granularity Topics and Tags. CICLing 2015]  
+- This is the code for the papers [[Short Text Hashing Improved by Integrating Multi-Granularity Topics and Tags](http://arxiv.org/abs/1503.02801). CICLing 2015]  
   
 Usage:  
     The main function: ./Code/main.m, please run this file;  
